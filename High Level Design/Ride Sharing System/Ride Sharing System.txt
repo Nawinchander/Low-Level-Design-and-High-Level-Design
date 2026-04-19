@@ -35,5 +35,18 @@ Notifications
 WebSockets:
 Live location updates
 
+Interview Questions:
+Q1: Why Kafka?
+
+Answer: For async event processing like ride updates and notifications.
+
+Q2: How find nearby drivers?
+
+Answer: Use geospatial indexing in Redis.
+
+Q3: How handle surge pricing?
+
+Answer: Separate pricing service based on supply-demand ratio.
+
 
 
