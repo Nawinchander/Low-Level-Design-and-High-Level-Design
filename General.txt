@@ -11,3 +11,28 @@ HLD → Services like User Service, Order Service, Payment Service, DB, Cache
 LLD → Classes like Order, PaymentProcessor, RestaurantManager
 
 
+| Aspect      |                  HLD |                  LLD |
+| ----------- | -------------------: | -------------------: |
+| Focus       |         Architecture |          Code Design |
+| Level       |                Macro |                Micro |
+| Asked In    |         Senior / Mid |          SDE1 / SDE2 |
+| Main Topics |   DB, Cache, Scaling |         Classes, OOP |
+| Output      | Architecture Diagram | Class Diagram / Code |
+
+
+FAANG Interview Answer Strategy
+If interviewer asks HLD:
+
+Say:
+
+“I’ll define requirements, estimate scale, design APIs, choose DB/cache, then discuss bottlenecks and scaling.”
+
+This gives structure.
+
+If interviewer asks LLD:
+
+Say:
+
+“I’ll identify entities, define relationships, apply SOLID principles, and design extensible classes.”
+
+This shows maturity.
