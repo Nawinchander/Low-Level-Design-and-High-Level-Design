@@ -44,3 +44,19 @@ Redis for hot URLs
 DB sharding
 CDN for redirects
 Rate limiting
+
+
+Interview Questions (HLD)
+Q1: Why Redis here?
+
+Answer: To reduce DB lookups for frequently accessed URLs.
+
+Q2: Why NoSQL?
+
+Answer: Because URL mappings are simple key-value records and need horizontal scaling.
+
+Q3: How avoid duplicate short codes?
+
+Answer: Use distributed unique ID generation like Base62 encoded auto-increment IDs.
+
+
