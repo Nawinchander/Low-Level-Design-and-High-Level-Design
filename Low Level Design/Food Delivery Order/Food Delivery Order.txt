@@ -8,3 +8,16 @@ DeliveryAgent
 
 
 
+Interview Questions:
+Q1: Which SOLID principle?
+
+Answer: Single Responsibility Principle—each class handles one responsibility.
+
+Q2: Improvement?
+
+Answer: Use dependency injection for PaymentProcessor and DeliveryAgent.
+
+Q3: Which pattern?
+
+Answer: Facade Pattern via OrderService.
+
