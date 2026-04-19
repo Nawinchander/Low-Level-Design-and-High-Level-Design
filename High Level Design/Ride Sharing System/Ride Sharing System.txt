@@ -9,4 +9,31 @@ Payment Service
 Notification Service
 Location Tracking Service
 
+Architecture:
+
+Client Apps
+    |
+API Gateway
+    |
+Microservices
+    |
+Kafka
+    |
+DB + Redis + WebSockets
+
+
+Key Design Choices:
+
+Redis:
+Driver locations
+Active rides
+
+Kafka:
+Ride events
+
+Notifications
+WebSockets:
+Live location updates
+
+
 
