@@ -1,0 +1,15 @@
+LLD explains:
+
+Classes
+Methods
+Relationships
+Design patterns
+Code implementation
+
+Interviewer expects:
+OOP principles
+Clean code
+SOLID principles
+Extensible design
+
+
