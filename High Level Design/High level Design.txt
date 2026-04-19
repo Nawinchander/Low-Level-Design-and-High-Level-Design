@@ -1,0 +1,19 @@
+High-Level Design (HLD)
+
+HLD explains:
+
+System architecture
+Major modules
+
+APIs
+Database choices
+
+Scalability
+Communication between services
+
+Interviewer expects:
+Can you design scalable architecture?
+Can you choose DB/cache/message queue?
+Can you handle load/scaling?
+
+
