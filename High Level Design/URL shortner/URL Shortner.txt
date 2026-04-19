@@ -6,3 +6,41 @@ Redirect short URL to original URL
 Analytics on clicks
 
 
+Client
+   |
+Load Balancer
+   |
+App Servers
+   |
+Redis Cache
+   |
+Database (MongoDB)
+
+
+Components:
+1. Load Balancer
+
+Distributes requests
+
+2. App Servers
+Generate short code
+Fetch original URL
+3. Redis
+
+Stores recent mappings
+
+4. MongoDB
+
+Stores permanent mappings
+
+
+/// API Design
+
+POST /shorten
+GET /:shortCode
+
+Scaling Strategy:
+Redis for hot URLs
+DB sharding
+CDN for redirects
+Rate limiting
