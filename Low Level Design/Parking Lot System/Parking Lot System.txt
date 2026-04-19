@@ -7,3 +7,16 @@ Spot
 Vehicle
 
 
+Interview Questions:
+
+Q1: Which OOP principle is used?
+
+Answer: Encapsulation, because parking logic is encapsulated in classes.
+
+Q2: How extend for electric vehicles?
+
+Answer: Add a new spot type and charging behavior.
+
+Q3: Which design pattern fits?
+
+Answer: Strategy Pattern for parking allocation logic.
