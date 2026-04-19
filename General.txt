@@ -1,0 +1,13 @@
+In system design interviews, High-Level Design (HLD) and Low-Level Design (LLD) are two different layers of problem solving:
+
+HLD = Architecture level
+Focuses on how major components interact
+LLD = Code level
+Focuses on how classes/modules/functions are implemented
+
+Think of it like building a food delivery app:
+
+HLD → Services like User Service, Order Service, Payment Service, DB, Cache
+LLD → Classes like Order, PaymentProcessor, RestaurantManager
+
+
