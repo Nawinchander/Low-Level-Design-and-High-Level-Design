@@ -1,0 +1,10 @@
+Food Delivery Order System
+
+Entities:
+Order
+Payment
+Restaurant
+DeliveryAgent
+
+
+
