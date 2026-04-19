@@ -1,0 +1,12 @@
+Ride Sharing System (Uber-like)
+
+Major Services:
+
+User Service
+Driver Service
+Ride Matching Service
+Payment Service
+Notification Service
+Location Tracking Service
+
+
