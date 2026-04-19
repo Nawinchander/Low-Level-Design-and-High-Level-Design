@@ -1,0 +1,8 @@
+URL Shortener (FAANG Level)
+
+Functional Requirements:
+Convert long URL to short URL
+Redirect short URL to original URL
+Analytics on clicks
+
+
