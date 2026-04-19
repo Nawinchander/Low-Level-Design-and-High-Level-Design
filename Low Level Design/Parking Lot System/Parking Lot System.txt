@@ -1,0 +1,9 @@
+Parking Lot System (FAANG Level JS)
+
+Entities:
+ParkingLot
+ParkingFloor
+Spot
+Vehicle
+
+
