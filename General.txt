@@ -36,3 +36,21 @@ Say:
 “I’ll identify entities, define relationships, apply SOLID principles, and design extensible classes.”
 
 This shows maturity.
+
+
+For HLD:
+
+Clarify requirements
+Estimate traffic
+Define APIs
+Design DB schema
+Add cache
+Discuss scaling bottlenecks
+
+For LLD:
+
+Identify entities
+Define responsibilities
+Apply OOP
+Use design patterns
+Think extensibility
